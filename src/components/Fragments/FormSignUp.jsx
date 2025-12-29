@@ -1,7 +1,7 @@
 import React from 'react'
 import LabeledInput from '../Elements/LabeledInput'
 import CheckBox from '../Elements/CheckBox'
-import Button from '../Elements/button'
+import Button from '../Elements/Button'
 
 function FormSignUp() {
   return (
