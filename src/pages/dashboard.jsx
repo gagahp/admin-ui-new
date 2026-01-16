@@ -78,6 +78,7 @@ function dashboard() {
           <div className="sm:col-span-8">
             <CardExpenseBreakdown data={expensesBreakdowns} />
           </div>
+
         </div>
         <AppSnackbar
           open={snackbar.open}
